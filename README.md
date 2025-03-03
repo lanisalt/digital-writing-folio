@@ -1,2 +1,2 @@
 # digital-writing-folio
-2025 digital writing folio for creative writing horizons: digital folio
+Digital writing folio for Creative Writing: Horizons (2025)
