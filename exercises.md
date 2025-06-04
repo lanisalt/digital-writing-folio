@@ -4,23 +4,119 @@ Coding has always messed with my brain in the same way that maths always has, so
 This week, we discussed the basics of Electronic Literature (or E-lit) and its three generations. The first generatiom (mostly hypertext) and ended in 1995 as the internet continued to expand, allowing for multi-modal E-Lit, (encluding pictures, audio, video, etc,) defining the second generation. Today, in the third generation, pretty much everything is digital, so the lines between games, e-lit and social media posts are a lot more blurred. I wonder if they'll ever be a fourth generation - What will make it distinct from the third? When will it begin? 
 </p>
 
-# Week 2: Lani vs Glitch
+# Week 2: Coding playground
 <p>
-This week, we began coding in Glitch - I was correct in assuming that it would be a learning curve! For the coding playground we're working on, I chose to theme mine after the Taylor Swift 'Lover' album, mostly for the colour scheme. As a romance writer that happens to be single, I tend to project that interest and desire for love into my writing, so 'Lovergirl' is kind about the reality of doing that. Kind of deep for a small practice task, but most of the writing we were supposed to include was supposed to be from text messages and notes app documents that we already have on our phones, so my options were limited - it was either 'dad can you please pick me up from the station?' or, 'oh my god, [best friend], guess who i made eye contact with today!'
-My focus tends to be all over the place, so I was surprised how absorbed I was in coding during these lessons. I was pretty determined to wrap my head around what I ws doing, so I ended up getting really invested in finishing it during class and zoned out. Whoops! The coding did break my brain a little as predicted, and it took some time outside of class to catch up, but I managed to fix up any syntax errors without too much of a hitch #improvement
+https://github.com/lanisalt/coding-playground
+This week, we began coding in Glitch - I was correct in assuming that it would be a learning curve! For the coding playground we're working on, a lot of the content we included was stuff that we had already written. I decided to theme my coding playground around Taylor Swift's 2019 album 'Lover', as It started to feel a lot like a personal anthology of mundane, ordinary expressions of my own experiences with different types of love (romantic, family, personal, etc.) through notes app entries, search history and messages. I liked this concept a lot, but executing it in a new medium was tricky and hard to wrap my head around at first. Eventually, however, I managed to smooth out the syntax errors and difficulties I was having, and it coding slowly became a little less intimidating the more I got used to the language and learnt to navigate the lines of code. My favourite part of this exercise was the Google search option, as I was able to sneak in some easter eggs about my interests, the things I love, etc. In a really straightforward, but also hidden way. 
 </p>
 
 
-# Week 3: Lani vs Glitch + Github - Round 2 
+# Week 3: Digital poetry
 <p>
-Coding playground is just about done! I really enjoyed the search engine task specifically, I was able to put the most ammount of little easter eggs in there, (my favourite things, future aspirations, celebrity crushes, etc.) and felt as though it fit the theme I wanted for my poem the best, its super fun and personalised to me. For my final assignment, I'm thinking of doing something similar to what i explored in this task, maybe a collection of journal entries, tweets, book reviews, etc, or perhaps some prose inspired by specific objects and media i've interacted with that reflect who I am. I don't tend to directly write about myself or my feelings very often, (usually i'll just project them through characters or stories,) so it felt almost freeing to include such raw parts of myself that I hide even in real life in such a casual way. I just think the biggest challenge with that will be breaking out of my comfort zone and allowing myself to take those same liberties.
-This week, we also moved on to some writing exercises...
+https://github.com/lanisalt/lanis-dadaist-poem
 </p>
 
-# Week 4: Github: 1 Lani: 0
 <p>
-We were introduced to Twine today, which I like a lot more than Glitch and Github. Until this point I've been writing my weekly reflections in OneNote so I can just put it into my github repository later, but I've decided that I'm now brave enough to step out of my comfort zone and type here instead. As much beef between me and github as there is, it's not actually that bad at all. Funnily enough, a lot of the coding reminds me of minecraft. I've been getting into playing it again recently for the first time since lockdown and there's a command function which uses its own syntax. (for example, /tp @player [cooridnates] teleports you around the map, /locate biome minecraft:spruce_forest gives you coordinates to the nearest forest, you can use the command /give @player minecraft:diamond_sword 1 to give yourself items etc.) I've found it easy to memorise THAT kind of coding language, so it's probably more of a confidence thing over my own capability. 
-Anyway, I found Twine's interface was super fun. I have been studying a hypertext built in the same program for my presentation next week, so it was cool to see how that worked. Uploading it to my github repository was the hardest part, it took teacher assistance and about 9 of my previously healthy brain cells, but we got there in the end. It's also a lot less intimidating than straight javascript, with the little boxes helping visualise what elements the different parts of code work with and how they connect to other elements. I might look into working with twine for my final assignment.
+Poetry, (like digital writing, i've found,) is hard to define. I always thought of poetry as short but complex pieces of text that really take a lot of effort to read and even more effort to write. Sometimes poems rhyme, other times they have a certain amount of syllables in each line, and sometimes they're just 
+ramblings
+split up into
+line breaks 
+so they seem a lot more deep
+than they actually are
+(looking at you, rupi kaur)
+</p>
+
+<p>
+It was under my impression that the defining factor of a poem would just be the intention behind it - if you write it as a poem, its a poem. So when we learnt about dadaist poems this week, I was confused about what made them poetry. There's a little bit of intention, but there isn't much writing involved at all, as the point is to take something that already exists and make something new out of it. I naturally supposed that meant that the poetic element of it wasn't the writing itself, then, it was the method behind a dadaist poem - meiticulously cutting an article or piece of writing up, shaking them and laying them out to make it your own - that makes it poetic. What confused me, though, was whether copy-pasting a piece of text into a box and clicking a button counted as the same thing, as it takes a lot less effort and dedication than the traditional method. (Turns out this is actually on brand when you look at the anti-art roots of dadaism. it's a double dada, if you will.) Eventually I came to the conclusion that, duh (da), the whole point was that you can still create poetry and find meaning in nonsense without any skill or formal training. It's quite literally the modern art of poetry, (with my personal preferences towards their more traditonal counterparts to boot.)
+</p>
+
+<p>
+Dadaist poem I generated using an extract of my own writing:
+so endless to the
+under sea,
+down
+part green in
+on. ignition, pavement, the
+fresh
+endless me
+the to peaks
+haven’t out beige
+reaching coming
+the help
+into rough into
+deep into this
+haze flat Standing
+connected
+not worth feel this
+myself
+most
+be car shivers of
+pockets my
+Not expanse could
+don’t place
+into green, their
+broke like me
+harsh clarity,
+of has the
+my vanish. sprawl
+It spine up therapist
+and stifle
+truck disappearing
+far kill anymore.
+hills flatness,
+bite enough lined
+that paint and
+I the me.
+fog into
+not sun-bleached
+northwestern
+I’d they
+to turnout stepping
+permanent look that
+I even
+slams pull the
+behind dry, was long
+even made of chain-link
+deep used shove thought
+tell straight, dying
+there drooping seen
+the distant land,
+Cascadian body. roads
+fences, reconnect. miss.
+shimmering their
+to never
+hands of
+own trees and
+gasping a does
+with found my constant
+chill. much
+trees to
+things
+the the not
+used I
+my silhouettes a
+here, to that
+but the sky.
+as
+years,
+desert, air.
+After Mojave even
+barely the
+Even
+heat for that
+</p>
+
+# Week 4: Experimenting with Twine
+<p>
+https://github.com/lanisalt/twine-test
+</p>
+
+<p>
+We were introduced to Twine today, which I like a lot more than Glitch and Github. (Until this point I've been avoiding github, writing my weekly reflections in OneNote so I can just put it into my repository later, but I've decided that I'm now brave enough to step out of my comfort zone and type here instead.) 
+</p>
+
+<p>
+I found that I enjoyed using Twine's interface much more than Glitch and Github, as some of the coding reminds me of Discord chat shortcuts and Minecraft commands, which both have syntaxes that were easy enough for me to memorise back in my 'gamer girl' phase of 2020-2022. It's also a lot less intimidating than straight javascript, with the little boxes helping visualise what elements the different parts of code work with what, and how they connect to eachother and work together. I might look into working with twine for my final assignment, as the typertext I have been studying for my presentation next week was written in the same program. Funnily enough, the hardest part of this activity for me was uploading my work to my Github repository, (which does not surprise me. I've had constant beef with this website since day one.) It took teacher assistance and about 9 of my previously healthy brain cells, but we got there in the end. I just need to figure out how to get my images to show up, and we're set.
 </p>
 
 # Week 5: Presentation
@@ -29,10 +125,10 @@ Anyway, I found Twine's interface was super fun. I have been studying a hypertex
 This week's Required Reading (Aarseth 1997) unpacks some territory that speak directly to some of the great questions raised in your Case Study presnetations such as "in what sense can a hypertext be a narrative? Is hypertext a literary genre or a literary technique?" It introduces the important concept of "ergotics": "hypertext is not a reconfiguration of narrative but offers an alternative to it, as I try to demonstrate through the concept of ergodics." (p.95) What do you think of Aarseth's concept? explain how it offer an alternative to conventional ideas of narrative and the role of reader and writer?
 </p>
 
-#Week 6: 
-I was away 
+#Week 6: Twine pt. 2
+Ah, my freedom from javascript and CSS was short lived. 
 
-#Week 7:
-???
+#Week 7: Bitsy
 
-#Week 8: 
+
+#Week 8: Author Website
