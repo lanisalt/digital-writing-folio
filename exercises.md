@@ -1,10 +1,12 @@
-# Week 1: Hello World!
+# Exercises
+## Week 1 - Hello world!
 <p>
 Coding has always messed with my brain in the same way that maths always has, so I'm going into this class with an open mind, ready to embrace what I'm sure will be a learning curve. Luckily, as a writer, language is what my entire field is built around. I've been taught to adapt it and work with it, bend it to my will as a tangible way to express my thoughts. Coding is nothing more than another medium to for me to play and experiment with, so i'm excited to see where my creativity will lead me. I figured that the digital world is always evolving, so my practice should, too. 
-This week, we discussed the basics of Electronic Literature (or E-lit) and its three generations. The first generatiom (mostly hypertext) and ended in 1995 as the internet continued to expand, allowing for multi-modal E-Lit, (encluding pictures, audio, video, etc,) defining the second generation. Today, in the third generation, pretty much everything is digital, so the lines between games, e-lit and social media posts are a lot more blurred. I wonder if they'll ever be a fourth generation - What will make it distinct from the third? When will it begin? 
+This week, we discussed the basics of Electronic Literature (or E-lit) and its three generations. The first generatiom (mostly hypertext) and ended in 1995 as the internet continued to expand, allowing for multi-modal E-Lit, (encluding pictures, audio, video, etc,) defining the second generation. Today, in the third generation, pretty much everything is digital, so the lines between games, e-lit and social media posts are a lot more blurred. I wonder when and if they'll ever be a fourth generation - What will make it distinct from the third?
 </p>
 
-# Week 2: Coding playground
+
+## Week 2: Coding playground
 <p>
 https://github.com/lanisalt/coding-playground
 </p>
