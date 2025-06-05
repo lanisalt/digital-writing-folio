@@ -7,6 +7,9 @@ This week, we discussed the basics of Electronic Literature (or E-lit) and its t
 # Week 2: Coding playground
 <p>
 https://github.com/lanisalt/coding-playground
+</p>
+
+<p>
 This week, we began coding in Glitch - I was correct in assuming that it would be a learning curve! For the coding playground we're working on, a lot of the content we included was stuff that we had already written. I decided to theme my coding playground around Taylor Swift's 2019 album 'Lover', as It started to feel a lot like a personal anthology of mundane, ordinary expressions of my own experiences with different types of love (romantic, family, personal, etc.) through notes app entries, search history and messages. I liked this concept a lot, but executing it in a new medium was tricky and hard to wrap my head around at first. Eventually, however, I managed to smooth out the syntax errors and difficulties I was having, and it coding slowly became a little less intimidating the more I got used to the language and learnt to navigate the lines of code. My favourite part of this exercise was the Google search option, as I was able to sneak in some easter eggs about my interests, the things I love, etc. In a really straightforward, but also hidden way. 
 </p>
 
@@ -32,6 +35,9 @@ It was under my impression that the defining factor of a poem would just be the 
 
 <p>
 Dadaist poem I generated using an extract of my own writing:
+</p>
+
+<p>
 so endless to the
 under sea,
 down
@@ -125,10 +131,24 @@ I found that I enjoyed using Twine's interface much more than Glitch and Github,
 This week's Required Reading (Aarseth 1997) unpacks some territory that speak directly to some of the great questions raised in your Case Study presnetations such as "in what sense can a hypertext be a narrative? Is hypertext a literary genre or a literary technique?" It introduces the important concept of "ergotics": "hypertext is not a reconfiguration of narrative but offers an alternative to it, as I try to demonstrate through the concept of ergodics." (p.95) What do you think of Aarseth's concept? explain how it offer an alternative to conventional ideas of narrative and the role of reader and writer?
 </p>
 
-#Week 6: Twine pt. 2
-Ah, my freedom from javascript and CSS was short lived. 
+# Week 6: Twine pt. 2
+<p>
+https://github.com/lanisalt/image-map-test
+</p>
 
-#Week 7: Bitsy
+<p>
+We worked on image styling, audio and image maps this week. My favourite part was the image map, specifically, which I think i'll be using as the main component of my final project.
+</p>
 
 
-#Week 8: Author Website
+# Week 7: Bitsy
+I was away this week.
+
+# Week 8: Author Website
+<p>
+https://github.com/lanisalt/author-website
+</p>
+
+<p>
+Making an author website was a really useful skill to learn - in this industry, you very much have to rely on yourself to promote your work and create connections with other writers, editors, potential clients, etc. which i've come to realise more as I get closer to finishing this course, (we are under the media and communications school, after all!) Luckily, with social media it has become a lot easier to make these connections, and having a website means your work and contact info is right there is a bonus in case anyone wants to access it. I would like to put my work somewhere easily accessible on the internet, so I tried to include links to some of my work that I've published on Portfolium, as well as some cute picture-book-like drawings i've done over the years just for fun. It's not fully functional yet, but I have enough basics down to know how to create my own website, which is super cool and a valueable skill to have, considering how much it normally costs to have someone make and operate a website for you , (speaking from experience, with my dad once working as a freelance graphic/web designer and my mum in marketing.)
+</p>
