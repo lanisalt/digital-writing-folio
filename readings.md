@@ -1,10 +1,10 @@
 # Week 1 
-### Reflections on the E-lit Collection
+## Reflections on the E-lit Collection
 
-## Tororko Gorge
-## The Gathering Cloud 
-## First Draft of the Revolution 
-## Shade 
+### Tororko Gorge
+### The Gathering Cloud 
+### First Draft of the Revolution 
+### Shade 
 
 
 # Week 3
