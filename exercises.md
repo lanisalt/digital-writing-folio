@@ -13,9 +13,7 @@ This week, we discussed the basics of Electronic Literature (or E-lit) and its t
 </p>
 
 #### What tools (or techniques) do you use to write?
-<p>
- Word mostly, but also the pomodoro method and a [self-destructive writing tool] (https://www.squibler.io/dangerous-writing-prompt-app/write?limit=15&type=minutes) I found online that deletes your progress if you stop writing for more than 5 seconds. I also like to map out what I write with planning documents, playlists and pinterest boards - i'm a very visual person and like to create a clear image in my head before I write. I also like to get comfy and listen to music.
-</p>
+ Word mostly, but also the pomodoro method and a [self-destructive writing tool](https://www.squibler.io/dangerous-writing-prompt-app/write?limit=15&type=minutes) I found online that deletes your progress if you stop writing for more than 5 seconds. I also like to map out what I write with planning documents, playlists and pinterest boards - i'm a very visual person and like to create a clear image in my head before I write. I also like to get comfy and listen to music.
 
 #### Why do you use these tools (or techniques)?
 <p>
@@ -29,9 +27,7 @@ This week, we discussed the basics of Electronic Literature (or E-lit) and its t
 
 
 ## Week 2: Coding playground
-<p>
 [My coding playground](https://github.com/lanisalt/coding-playground)
-</p>
 
 <p>
 This week, we began coding in Glitch - I was correct in assuming that it would be a learning curve! For the coding playground we're working on, a lot of the content we included was stuff that we had already written. I decided to theme my coding playground around Taylor Swift's 2019 album 'Lover', as It started to feel a lot like a personal anthology of mundane, ordinary expressions of my own experiences with different types of love (romantic, family, personal, etc.) through notes app entries, search history and messages. I liked this concept a lot, but executing it in a new medium was tricky and hard to wrap my head around at first. Eventually, however, I managed to smooth out the syntax errors and difficulties I was having, and it coding slowly became a little less intimidating the more I got used to the language and learnt to navigate the lines of code. My favourite part of this exercise was the Google search option, as I was able to sneak in some easter eggs about my interests, the things I love, etc. In a really straightforward, but also hidden way. 
@@ -39,40 +35,24 @@ This week, we began coding in Glitch - I was correct in assuming that it would b
 
 
 # Week 3: Digital poetry
-<p>
 [My dadaist poem remix](https://github.com/lanisalt/lanis-dadaist-poem)
-</p>
 
 <p>
-Poetry, (like digital writing, i've found,) is hard to define. I always thought of poetry as short but complex pieces of text that really take a lot of effort to read and even more effort to write. Sometimes poems rhyme, other times they have a certain amount of syllables in each line, and sometimes they're just 
+Poetry, (like digital writing, i've found,) is hard to define. I always thought of poetry as short but complex pieces of text that really take a lot of effort to read and even more effort to write. Sometimes poems rhyme, other times they have a certain amount of syllables in each line, and sometimes they're just <br/>
+ ramblings <br/>
+ split up into <br/>
+  line breaks <br/>
+  so they seem a lot more deep <br/>
+  than they actually are <br>
+(looking at you, rupi kaur) <br/>
 <p>
- ramblings
+It was under my impression that the defining factor of a poem would just be the intention behind it - if you write it as a poem, its a poem. So when we learnt about dadaist poems this week, I was confused about what made them poetry. There's a little bit of intention, but there isn't much writing involved at all, as the point is to take something that already exists and make something new out of it. I naturally supposed that meant that the poetic element of it wasn't the writing itself, then, it was the method behind a dadaist poem - meiticulously cutting an article or piece of writing up, shaking them and laying them out to make it your own - that makes it poetic. What confused me, though, was whether copy-pasting a piece of text into a box and clicking a button counted as the same thing, as it takes a lot less effort and dedication than the traditional method. (Turns out this is actually on brand when you look at the anti-art roots of dadaism. it's a double dada, if you will.) Eventually I came to the conclusion that, duh (da), the whole point was that you can still create poetry and find meaning in nonsense without any skill or formal training. It's quite literally the modern art of poetry, (with my personal preferences towards their more traditonal counterparts to boot.) <br/>
+ 
 </p>
-<p>
- split up into
-</p>
-<p>
-  line breaks
-</p>
-<p>
-  so they seem a lot more deep
-</p>
-<p>
-  than they actually are
-</p> 
-<p>
-(looking at you, rupi kaur)
-</p>
+ 
+#### Dadaist poem I generated using an extract of my own writing:
 
-<p>
-It was under my impression that the defining factor of a poem would just be the intention behind it - if you write it as a poem, its a poem. So when we learnt about dadaist poems this week, I was confused about what made them poetry. There's a little bit of intention, but there isn't much writing involved at all, as the point is to take something that already exists and make something new out of it. I naturally supposed that meant that the poetic element of it wasn't the writing itself, then, it was the method behind a dadaist poem - meiticulously cutting an article or piece of writing up, shaking them and laying them out to make it your own - that makes it poetic. What confused me, though, was whether copy-pasting a piece of text into a box and clicking a button counted as the same thing, as it takes a lot less effort and dedication than the traditional method. (Turns out this is actually on brand when you look at the anti-art roots of dadaism. it's a double dada, if you will.) Eventually I came to the conclusion that, duh (da), the whole point was that you can still create poetry and find meaning in nonsense without any skill or formal training. It's quite literally the modern art of poetry, (with my personal preferences towards their more traditonal counterparts to boot.)
-</p>
-
-<p>
-Dadaist poem I generated using an extract of my own writing:
-</p>
-
-<p>
+```
 so endless to the
 under sea,
 down
@@ -145,12 +125,49 @@ After Mojave even
 barely the
 Even
 heat for that
+```
 </p>
 
+ 
+#### Mesostic poem I made myself:
+ 
+ ```
+                off Bourke street 
+            there's A place
+  that makes really Good 
+                   vEgemite and fried egg bagels
+ I'm really craving Lunch right now 
+ ```
+
+#### Computer generated mesostic poem, using a bagel recipe:
+ 
+```
+      recipe favorite to and couldnt Be 
+                                    hAppier like many of you hes been 
+                                bakinG up a
+churning crusty of sourdough with driEd fruit nuts or roasted 
+                                  garLic i but a them garlicky make the 
+```
+
+ #### Lipogram (without using the letter 'E')
+ 
+ <p>
+With only 26 units in our ABCs, cutting out just a small part of it jacks up how difficult it is to say what you want to say. Writing without our most common non-consonant thus shows how writing with limitations is a skill that most must polish up on continually. 
+<p/>
+
+### Nick Montfort's poem remixes
+
+#### What aspects of the remix are the same?
+Pretty much all of the code is the same, except for the phrases that the poem is made up of.
+
+#### What aspects of the remix are different?
+The words, the title and the stylistic choices. I also didn't put as many phrases in the javascript, so there are less combinations and the poem feels more repetitive.
+
+#### Is the remix successful (why or why not)?
+Yes and no - while it works, I feel like my remix doesn't flow as well and doesn't evoke the same emotions as the original.
+
 # Week 4: Experimenting with Twine
-<p>
 [My first twine experiment](https://github.com/lanisalt/twine-test)
-</p>
 
 <p>
 We were introduced to Twine today, which I like a lot more than Glitch and Github. (Until this point I've been avoiding github, writing my weekly reflections in OneNote so I can just put it into my repository later, but I've decided that I'm now brave enough to step out of my comfort zone and type here instead.) 
@@ -166,18 +183,15 @@ I found that I enjoyed using Twine's interface much more than Glitch and Github,
 </p>
 
 # Week 6: Twine pt. 2
-<p>
+
 [My image map test](https://github.com/lanisalt/image-map-test)
-</p>
 
 <p>
 We worked on image styling, audio and image maps this week. My favourite part was the image map, specifically, which I think i'll be using as the main component of my final project.
 </p>
 
 # Week 8: Author Website
-<p>
 [My author website](https://github.com/lanisalt/author-website)
-</p>
 
 <p>
 Making an author website was a really useful skill to learn - in this industry, you very much have to rely on yourself to promote your work and create connections with other writers, editors, potential clients, etc. which i've come to realise more as I get closer to finishing this course, (we are under the media and communications school, after all!) Luckily, with social media it has become a lot easier to make these connections, and having a website means your work and contact info is right there is a bonus in case anyone wants to access it. I would like to put my work somewhere easily accessible on the internet, so I tried to include links to some of my work that I've published on Portfolium, as well as some cute picture-book-like drawings i've done over the years just for fun. It's not fully functional yet, but I have enough basics down to know how to create my own website, which is super cool and a valueable skill to have, considering how much it normally costs to have someone make and operate a website for you , (speaking from experience, with my dad once working as a freelance graphic/web designer and my mum in marketing.)
