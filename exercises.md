@@ -1,8 +1,26 @@
 # Exercises
 ## Week 1 - Hello world!
+### Digital writing
 <p>
 Coding has always messed with my brain in the same way that maths always has, so I'm going into this class with an open mind, ready to embrace what I'm sure will be a learning curve. Luckily, as a writer, language is what my entire field is built around. I've been taught to adapt it and work with it, bend it to my will as a tangible way to express my thoughts. Coding is nothing more than another medium to for me to play and experiment with, so i'm excited to see where my creativity will lead me. I figured that the digital world is always evolving, so my practice should, too. 
 This week, we discussed the basics of Electronic Literature (or E-lit) and its three generations. The first generatiom (mostly hypertext) and ended in 1995 as the internet continued to expand, allowing for multi-modal E-Lit, (encluding pictures, audio, video, etc,) defining the second generation. Today, in the third generation, pretty much everything is digital, so the lines between games, e-lit and social media posts are a lot more blurred. I wonder when and if they'll ever be a fourth generation - What will make it distinct from the third?
+</p>
+### My writing
+#### What types of writing do you do (e.g. fiction, nonfiction, poetry)?
+<p>
+ I'm a fiction writer, primarily. I don't like writing nonfiction as much (I find it quite boring), and poetry is a challenge for me. I tend to gravitate towards historical fiction and romance, mostly, usually with lots of descriptive elements and dramatic settings.
+</p>
+#### What tools (or techniques) do you use to write?
+<p>
+ Word mostly, but also the pomodoro method and a self-destructive writing tool I found online that deletes your progress if you stop writing for more than 5 seconds. I like to map out what I write with playlists and pinterest boards - i'm a very visual person and like to create a clear image in my head before I write. I also like to get comfy and listen to music.
+</p>
+#### Why do you use these tools (or techniques)?
+<p>
+ Typically to force myself to get stuff down and inspire me to write. I love writing, but getting myself to do it is always the hardest part. Sometimes if I lose interest or don't stay on top of it, I'll leave projects abandoned.
+</p>
+#### How do these tools shape the way you write (e.g., constrain the way you write or facilitate your writing)
+ <p>
+ My methods sound very constraining, but I actually find them liberating - they help me break out of mental blocks and stop me from obsessively editing my work as I go, which is something that I've always struggled with in the past. I also find the excessive planning enjoyable as well as helpful; I get to be creative with moodboards and playlists!
 </p>
 
 
@@ -138,10 +156,9 @@ We were introduced to Twine today, which I like a lot more than Glitch and Githu
 I found that I enjoyed using Twine's interface much more than Glitch and Github, as some of the coding reminds me of Discord chat shortcuts and Minecraft commands, which both have syntaxes that were easy enough for me to memorise back in my 'gamer girl' phase of 2020-2022. It's also a lot less intimidating than straight javascript, with the little boxes helping visualise what elements the different parts of code work with what, and how they connect to eachother and work together. I might look into working with twine for my final assignment, as the typertext I have been studying for my presentation next week was written in the same program. Funnily enough, the hardest part of this activity for me was uploading my work to my Github repository, (which does not surprise me. I've had constant beef with this website since day one.) It took teacher assistance and about 9 of my previously healthy brain cells, but we got there in the end. I just need to figure out how to get my images to show up, and we're set.
 </p>
 
-# Week 5: Presentation
+# Week 5:
 <p>
-*Requirement for final folio - 350-500 words on the below (this can be done any time this week)
-This week's Required Reading (Aarseth 1997) unpacks some territory that speak directly to some of the great questions raised in your Case Study presnetations such as "in what sense can a hypertext be a narrative? Is hypertext a literary genre or a literary technique?" It introduces the important concept of "ergotics": "hypertext is not a reconfiguration of narrative but offers an alternative to it, as I try to demonstrate through the concept of ergodics." (p.95) What do you think of Aarseth's concept? explain how it offer an alternative to conventional ideas of narrative and the role of reader and writer?
+
 </p>
 
 # Week 6: Twine pt. 2
