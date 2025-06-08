@@ -23,11 +23,22 @@ https://github.com/lanisalt/lanis-dadaist-poem
 
 <p>
 Poetry, (like digital writing, i've found,) is hard to define. I always thought of poetry as short but complex pieces of text that really take a lot of effort to read and even more effort to write. Sometimes poems rhyme, other times they have a certain amount of syllables in each line, and sometimes they're just 
-ramblings
-split up into
-line breaks 
-so they seem a lot more deep
-than they actually are
+<p>
+ ramblings
+</p>
+<p>
+ split up into
+</p>
+<p>
+  line breaks
+</p>
+<p>
+  so they seem a lot more deep
+</p>
+<p>
+  than they actually are
+</p> 
+<p>
 (looking at you, rupi kaur)
 </p>
 
@@ -141,10 +152,6 @@ https://github.com/lanisalt/image-map-test
 <p>
 We worked on image styling, audio and image maps this week. My favourite part was the image map, specifically, which I think i'll be using as the main component of my final project.
 </p>
-
-
-# Week 7: Bitsy
-I was away this week.
 
 # Week 8: Author Website
 <p>
