@@ -14,7 +14,7 @@ This week, we discussed the basics of Electronic Literature (or E-lit) and its t
 
 #### What tools (or techniques) do you use to write?
 <p>
- Word mostly, but also the pomodoro method and a self-destructive writing tool I found online that deletes your progress if you stop writing for more than 5 seconds. I also like to map out what I write with planning documents, playlists and pinterest boards - i'm a very visual person and like to create a clear image in my head before I write. I also like to get comfy and listen to music.
+ Word mostly, but also the pomodoro method and a [self-destructive writing tool](https://www.squibler.io/dangerous-writing-prompt-app/write?limit=15&type=minutes) I found online that deletes your progress if you stop writing for more than 5 seconds. I also like to map out what I write with planning documents, playlists and pinterest boards - i'm a very visual person and like to create a clear image in my head before I write. I also like to get comfy and listen to music.
 </p>
 
 #### Why do you use these tools (or techniques)?
@@ -30,7 +30,7 @@ This week, we discussed the basics of Electronic Literature (or E-lit) and its t
 
 ## Week 2: Coding playground
 <p>
-https://github.com/lanisalt/coding-playground
+[My coding playground](https://github.com/lanisalt/coding-playground)
 </p>
 
 <p>
@@ -40,7 +40,7 @@ This week, we began coding in Glitch - I was correct in assuming that it would b
 
 # Week 3: Digital poetry
 <p>
-https://github.com/lanisalt/lanis-dadaist-poem
+[My dadaist poem remix](https://github.com/lanisalt/lanis-dadaist-poem)
 </p>
 
 <p>
@@ -149,7 +149,7 @@ heat for that
 
 # Week 4: Experimenting with Twine
 <p>
-https://github.com/lanisalt/twine-test
+[My first twine experiment](https://github.com/lanisalt/twine-test)
 </p>
 
 <p>
@@ -167,7 +167,7 @@ I found that I enjoyed using Twine's interface much more than Glitch and Github,
 
 # Week 6: Twine pt. 2
 <p>
-https://github.com/lanisalt/image-map-test
+[My image map test](https://github.com/lanisalt/image-map-test)
 </p>
 
 <p>
@@ -176,7 +176,7 @@ We worked on image styling, audio and image maps this week. My favourite part wa
 
 # Week 8: Author Website
 <p>
-https://github.com/lanisalt/author-website
+[My author website](https://github.com/lanisalt/author-website)
 </p>
 
 <p>
