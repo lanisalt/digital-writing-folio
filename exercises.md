@@ -14,7 +14,7 @@ This week, we discussed the basics of Electronic Literature (or E-lit) and its t
 
 #### What tools (or techniques) do you use to write?
 <p>
- Word mostly, but also the pomodoro method and a [self-destructive writing tool]([url](https://www.squibler.io/dangerous-writing-prompt-app/write?limit=15&type=minutes)) I found online that deletes your progress if you stop writing for more than 5 seconds. I also like to map out what I write with planning documents, playlists and pinterest boards - i'm a very visual person and like to create a clear image in my head before I write. I also like to get comfy and listen to music.
+ Word mostly, but also the pomodoro method and a [self-destructive writing tool](https://www.squibler.io/dangerous-writing-prompt-app/write?limit=15&type=minutes) I found online that deletes your progress if you stop writing for more than 5 seconds. I also like to map out what I write with planning documents, playlists and pinterest boards - i'm a very visual person and like to create a clear image in my head before I write. I also like to get comfy and listen to music.
 </p>
 
 #### Why do you use these tools (or techniques)?
