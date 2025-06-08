@@ -1,6 +1,18 @@
-# Week 1 
-## Reflections on the E-lit Collection
+# Weeks 1 & 2
+## Week 1 Readings
+### Toroko Gorge
+The experience of reading this poem was very calming, which checks out, given the context behind why it was written. I found that the slow way the lines appear on screen really forced me to slow down and absorb what I was reading, which became a very medative process, like being out in nature. I appreciate the headspace it puts me in, reminding me to take a minute to let myself breathe, to allow the poem to transport me to the beautiful place that inspired it.
 
+### The Gathering Cloud
+A little hard to wrap my head around at first, all the different parts of this poem demanding my attention at once, making it hard to decide where to look first. I appreciated the inclusion of definitions that really helped add to the meaning of the piece, and eventually I fell into a rhythm of reading just like with regular poetry. I liked the links it drew between the digital cloud and real life, with the inclusions of imagery especially helping me connect with it. My favourite part was when I clicked on something and a bunch of pictures of cat paws popped up on the screen. Adorable.
+
+### First Draft of the Revolution
+This was one of my favourite pieces of these selected bits of writing, I found it equal parts amusing and frustrating. The slow reveal of the chararacters was satisfying, the constant editing of the letters revealing more about the characters the more you navigate the story. The frustrating parts for me were mostly the parts you could change - sometimes I wanted to send the letter without changing the text, sometimes I wanted to change the text, but couldn't. The subtle revelations, especially about Juliette and the friar were fun to uncover, and I found myself very invested in the narrative the more I got used to its format. The writing of this one felt a lot closer to tradtional literature to me, despite its format being the most like a game.
+
+### Shade
+I played through 'Shade' a few times, frustrated by the confusing way you navigate the story, as it relys on you typing very specific commands to get the character to do things, meaning there's a lot of guess work and going around in circles. At first, I got about as far as listening to the radio and learning about the festival on the news, not knowing how to continue the story but getting absorbed in trying by typing various prompts, despite the constant 'That's not a verb I recognise' responses. I ended up just spamming the words 'listen' and 'wait' in effort to progress the story until giving up and looking at an online forum for solutions, which finally gave me enough of a hint to continue with the story, which became an eerie, surrealist narrative. While I think this story could still work as a piece of print lit, the interactivity of it adds a lot to the story, as, by having a direct hand in progressing the story, it makes the reader feel as if they are a part of it, something I think E-lit does exceptionally well.
+
+## Reflections on the E-lit Collection
 ### Volume 1 - Soliloquy
 I was initially drawn to this piece because of the title - a soliloquy is the act of speaking one's thought's aloud, especially in a performance or play. I found it so cool how the author, who he describes himself as 'the most boring writer that ever lived', wore a hidden tape recorder for a whole week and then transcribed everything he said. Apparently, the piece was also a gallery exhibit and a book, which I find interesting, as I was under the impression that E-lit was usually written for the purpose of being a piece of digital writing. However, the way that it's structured still helps it hold up as a piece of E-lit, I think, especially as it has an interactive aspect. You can only read one line at a time by mousing over the page, forcing you to kind of just fill in the blanks with your brain. It reminded me of sitting in a crowded place like a cafe and getting small snippets of people's conversations and wanting to know the full story, which I enjoyed a lot. Writing about mundanity is one of my favourite ways to write, and apparently this author is the same.
 ### Volume 2 - Entre Ville
@@ -9,10 +21,6 @@ I was initially drawn to this piece because of the title - a soliloquy is the ac
 I went into this one without reading the description, and genuinely thought my computer was glitching out on me. It took a little bit for me to realise what the piece was, and slowly, I was able to make a little bit of sense out of some of it, only able to read a few words at a time because of how fast they change and how hard it was to stay focused on one part of the screen. Although there were no real sentences or way to read it 'properluy', I was still able to get a general idea of what was being said, almost like looking at a piece of visual art. Again, this piece is very much a piece of E-literature, as it heavily relies on the digital format to tell the story, which, when I went back and read the description, I found was about interconnectedness, inspired by the subject matter of the original works it's comprised of and the difficulty of reading them.
 ### Volume 4  - How to Rob a Bank
 This was a super fun piece of E-lit to interact with. you really get a good sense of who the characters are without it having to be spelled out explicitly to you, and the subtle bits of humour and the way its paced make it really funny and entertaining. I'd say this one is a piece of e-lit rather than a game, as, while its interactive, you can't really change what happens and have no free reign or control with the story, you are just observing the plot unfold. It's also written in a way that only makes sense with the medium that its written in, I don't think you'd get the same effect and pacing from it if you were to write it more traditonally, especially with the phone interface being a big part of the storytelling. 
-
-# Week 3
-## Defining Electronic Literature
-
 
 # Week 5 
 ## Aarseth's concept of Ergotic Literature
