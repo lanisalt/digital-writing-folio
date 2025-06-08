@@ -155,7 +155,7 @@ churning crusty of sourdough with driEd fruit nuts or roasted
                                   garLic i but a them garlicky make the 
 ```
 
- #### Lipogram (without using the letter 'E')
+ #### Lipogram attempt (without using the letter 'E')
  
  <p>
 With only 26 units in our ABCs, cutting out just a small part of it jacks up how difficult it is to say what you want to say. Writing without our most common non-consonant thus shows how writing with limitations is a skill that most must polish up on continually. 
@@ -176,16 +176,16 @@ I found that I enjoyed using Twine's interface much more than Glitch and Github,
 
 # Week 5:
 ### what is emerging for you in your own piece toward assignments 2 & 3?
-I know that I'd like to write something personal - I really liked the personal aspects of my coding playground (including text messages, notes app notes, etc.) and I think I might do something that involves that, since I don't do a lot of personal writing. Maybe a poetry/prose anthology. I also like the idea of writing a classic linear hypertext, like a choose-your-own adventure story.
+I know that I'd like to write something personal - I really liked the personal aspects of my coding playground (including text messages, notes app notes, etc.) and I think I might do something that involves that, since I don't do a lot of personal writing. Maybe a poetry/prose anthology. I also like the idea of writing a classic linear hypertext, like a choose-your-own adventure story a la the Famous Five book my parents read to my sister and I growing up.
 
 ### What platform & tech does it require?
-I'm thinking Twine - it's been the easiest to use for me so far and I like the hypertext format, which was what the piece I did for my presentation 'c ya laterrrr' used. I could maybe do a puzzle, or some kind of virtual escape room. I don't really want to use Glitch or Github, as much fun as that was...
+I'm thinking Twine - it's been the easiest to use for me so far and I like the hypertext format, which was what the piece I did for my presentation, 'c ya laterrrr' used. I could maybe do a puzzle, or some kind of virtual escape room. I don't really want to use Glitch or Github, as much fun as that was... 
 
 ### Can you make it?
-I think so. I'll have to look more into what twine can do, but the premise seems achievable enough. I don't want to do anything too crazy and bite off more than I can chew - I want it to stay simple so I can focus on developing my skills, rather than creating something super profound and stressing myself out.
+I think so. I'll have to look more into what Twine can do, but the premise seems achievable enough. I don't want to do anything too crazy and bite off more than I can chew - I want it to stay simple so I can focus on developing my skills, rather than creating something super profound and stressing myself out.
 
 ### What else do you need to learn? 
-More of the basics on coding, definitely. How to link multiplet twine passages to the same passage, maybe, how to add images properly so that they actually work (lol)
+More of the basics on coding, definitely -  How to link multiple twine passages to the same passage, how to add images properly so that they actually work (lol), how to change the CSS, etc.
 </p>
 
 # Week 6: Twine pt. 2
