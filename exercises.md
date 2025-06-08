@@ -7,18 +7,17 @@ This week, we discussed the basics of Electronic Literature (or E-lit) and its t
 </p>
 
 ### My writing
-
-### What types of writing do you do (e.g. fiction, nonfiction, poetry)?
+#### What types of writing do you do (e.g. fiction, nonfiction, poetry)?
 <p>
  I'm a fiction writer, primarily. I don't like writing nonfiction as much (I find it quite boring), and poetry is a challenge for me. I tend to gravitate towards historical fiction and romance, mostly, usually with lots of descriptive elements and dramatic settings.
 </p>
 
-### What tools (or techniques) do you use to write?
+#### What tools (or techniques) do you use to write?
 <p>
  Word mostly, but also the pomodoro method and a self-destructive writing tool I found online that deletes your progress if you stop writing for more than 5 seconds. I like to map out what I write with playlists and pinterest boards - i'm a very visual person and like to create a clear image in my head before I write. I also like to get comfy and listen to music.
 </p>
 
-### Why do you use these tools (or techniques)?
+#### Why do you use these tools (or techniques)?
 <p>
  Typically to force myself to get stuff down and inspire me to write. I love writing, but getting myself to do it is always the hardest part. Sometimes if I lose interest or don't stay on top of it, I'll leave projects abandoned.
 </p>
