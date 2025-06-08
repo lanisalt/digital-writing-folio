@@ -30,7 +30,7 @@ This week, we discussed the basics of Electronic Literature (or E-lit) and its t
 [My coding playground](https://github.com/lanisalt/coding-playground)
 
 <p>
-This week, we began coding in Glitch - I was correct in assuming that it would be a learning curve! For the coding playground we're working on, a lot of the content we included was stuff that we had already written. I decided to theme my coding playground around Taylor Swift's 2019 album 'Lover', as It started to feel a lot like a personal anthology of mundane, ordinary expressions of my own experiences with different types of love (romantic, family, personal, etc.) through notes app entries, search history and messages. I liked this concept a lot, but executing it in a new medium was tricky and hard to wrap my head around at first. Eventually, however, I managed to smooth out the syntax errors and difficulties I was having, and it coding slowly became a little less intimidating the more I got used to the language and learnt to navigate the lines of code. My favourite part of this exercise was the Google search option, as I was able to sneak in some easter eggs about my interests, the things I love, etc. In a really straightforward, but also hidden way. 
+This week, we began coding in Glitch - I was correct in assuming that it would be a learning curve. For the coding playground we're working on, a lot of the content we included was stuff that we had already written. I decided to theme my coding playground around Taylor Swift's 2019 album 'Lover', as It started to feel a lot like a personal anthology of mundane, ordinary expressions of my own experiences with different types of love (romantic, family, personal, etc.) through notes app entries, search history and messages. I liked this concept a lot, but executing it in a new medium was tricky and hard to wrap my head around at first. Eventually, however, I managed to smooth out the syntax errors and difficulties I was having, and it coding slowly became a little less intimidating the more I got used to the language and learnt to navigate the lines of code. My favourite part of this exercise was the Google search option, as I was able to sneak in some easter eggs about my interests, the things I love, etc. In a really straightforward, but also hidden way. 
 </p>
 
 
@@ -47,8 +47,14 @@ Poetry, (like digital writing, i've found,) is hard to define. I always thought 
 (looking at you, rupi kaur) <br/>
 <p>
 It was under my impression that the defining factor of a poem would just be the intention behind it - if you write it as a poem, its a poem. So when we learnt about dadaist poems this week, I was confused about what made them poetry. There's a little bit of intention, but there isn't much writing involved at all, as the point is to take something that already exists and make something new out of it. I naturally supposed that meant that the poetic element of it wasn't the writing itself, then, it was the method behind a dadaist poem - meiticulously cutting an article or piece of writing up, shaking them and laying them out to make it your own - that makes it poetic. What confused me, though, was whether copy-pasting a piece of text into a box and clicking a button counted as the same thing, as it takes a lot less effort and dedication than the traditional method. (Turns out this is actually on brand when you look at the anti-art roots of dadaism. it's a double dada, if you will.) Eventually I came to the conclusion that, duh (da), the whole point was that you can still create poetry and find meaning in nonsense without any skill or formal training. It's quite literally the modern art of poetry, (with my personal preferences towards their more traditonal counterparts to boot.) <br/>
- 
+I'm still a bit iffy about coding at this point - it's still pretty overwhelming to me, and have found it frustrating to find my footing in this new medium, even with the coding playground exercise. However, it's all part of the learning process, and I have enjoyed the interactive aspects. I mentioned before that the exercises and readings have made coding a little less intimidating to me, but it's also helped me see E-lit as a medium, just like poetry and screenwriting, and, of course as a fiction writer, I'm not going to be immediately good at it, as much as that annoys my perfectionist brain.
 </p>
+
+### Algorithm & constraint
+#### What is an algorithm? What is a constraint?
+#### Can you think of ways you might already be using these in your writing? (e.g., tools, techniques or processes that constrain and sytematise the way you write)?
+#### Why were the Oupilo writers so interested in the intersection of maths and literature?
+#### How does algorthmic writing make us think differently about authorship?
  
 #### Dadaist poem I generated using an extract of my own writing:
 
@@ -155,16 +161,7 @@ churning crusty of sourdough with driEd fruit nuts or roasted
 With only 26 units in our ABCs, cutting out just a small part of it jacks up how difficult it is to say what you want to say. Writing without our most common non-consonant thus shows how writing with limitations is a skill that most must polish up on continually. 
 <p/>
 
-### Nick Montfort's poem remixes
 
-#### What aspects of the remix are the same?
-Pretty much all of the code is the same, except for the phrases that the poem is made up of.
-
-#### What aspects of the remix are different?
-The words, the title and the stylistic choices. I also didn't put as many phrases in the javascript, so there are less combinations and the poem feels more repetitive.
-
-#### Is the remix successful (why or why not)?
-Yes and no - while it works, I feel like my remix doesn't flow as well and doesn't evoke the same emotions as the original.
 
 # Week 4: Experimenting with Twine
 [My first twine experiment](https://github.com/lanisalt/twine-test)
@@ -178,8 +175,17 @@ I found that I enjoyed using Twine's interface much more than Glitch and Github,
 </p>
 
 # Week 5:
-<p>
+### what is emerging for you in your own piece toward assignments 2 & 3?
+I know that I'd like to write something personal - I really liked the personal aspects of my coding playground (including text messages, notes app notes, etc.) and I think I might do something that involves that, since I don't do a lot of personal writing. Maybe a poetry/prose anthology. I also like the idea of writing a classic linear hypertext, like a choose-your-own adventure story.
 
+### What platform & tech does it require?
+I'm thinking Twine - it's been the easiest to use for me so far and I like the hypertext format, which was what the piece I did for my presentation 'c ya laterrrr' used. I could maybe do a puzzle, or some kind of virtual escape room. I don't really want to use Glitch or Github, as much fun as that was...
+
+### Can you make it?
+I think so. I'll have to look more into what twine can do, but the premise seems achievable enough. I don't want to do anything too crazy and bite off more than I can chew - I want it to stay simple so I can focus on developing my skills, rather than creating something super profound and stressing myself out.
+
+### What else do you need to learn? 
+More of the basics on coding, definitely. How to link multiplet twine passages to the same passage, maybe, how to add images properly so that they actually work (lol)
 </p>
 
 # Week 6: Twine pt. 2
