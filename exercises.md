@@ -52,9 +52,15 @@ I'm still a bit iffy about coding at this point - it's still pretty overwhelming
 
 ### Algorithm & constraint
 #### What is an algorithm? What is a constraint?
+An algorithim is a sequence designed to solve a problem. A constraint is a limitation or rule that restricts something. In writing constraints can be word limits, stylistic rules, etc.
 #### Can you think of ways you might already be using these in your writing? (e.g., tools, techniques or processes that constrain and sytematise the way you write)?
+Outlining plot points or arguments in an analytical essay, writing prompts, writing routines (writing x amount of words a day, writing at a certain time of day, etc.), time and word limits (eg. pomodoro, self destructive writing tool)
+
 #### Why were the Oupilo writers so interested in the intersection of maths and literature?
+They took inspiration from that structures and constraints, believing they could spark creativity. They used formulas, patterns, and logic to invent new ways of writing and found that constraints can help you write instead of stifle it. (eg. Georges Perec’s novel 'La Disparition' is written entirely without the letter 'e')
+
 #### How does algorthmic writing make us think differently about authorship?
+ It challenges the idea of writing being written entirely by the author. If a piece uses an algorithm, who is the true author - the person who wrote the words or the system putting them together?
  
 #### Dadaist poem I generated using an extract of my own writing:
 
