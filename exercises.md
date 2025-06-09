@@ -208,3 +208,28 @@ We worked on image styling, audio and image maps this week. My favourite part wa
 <p>
 Making an author website was a really useful skill to learn - in this industry, you very much have to rely on yourself to promote your work and create connections with other writers, editors, potential clients, etc. which i've come to realise more as I get closer to finishing this course, (we are under the media and communications school, after all!) Luckily, with social media it has become a lot easier to make these connections, and having a website means your work and contact info is right there is a bonus in case anyone wants to access it. I would like to put my work somewhere easily accessible on the internet, so I tried to include links to some of my work that I've published on Portfolium, as well as some cute picture-book-like drawings i've done over the years just for fun. It's not fully functional yet, but I have enough basics down to know how to create my own website, which is super cool and a valueable skill to have, considering how much it normally costs to have someone make and operate a website for you , (speaking from experience, with my dad once working as a freelance graphic/web designer and my mum in marketing.)
 </p>
+
+# Week 9: Presentation
+## Presentation reflection
+Most of the questions that arised in class were about how this piece would work structurally. Liv wanted to know how the 'mystery', aspect of my piece would come in, which is something I was wondering about, too. I think that will mostly be carried by the Twine structure. I've played around with the image map function and I think it could work like a search-and-find game, where you have to explore a bit and find the right things to click on. I'm struggling to figure out how to do this, though, as I want the user to be able to 'unlock' new passages as they go further into the story - this means i'll probably have to do multiple image maps that look the same, but add a new set of coordinates each passage. I'm also wondering if I should figure out a system to hint towards the right path, or if I can rely on my users to click around until they're lead to another passage. There's still a lot I need to sort out with this task, so I'll just keep taking it step-by-step at this point. Because there's also several different poems that all link with eachother, I'll also have to start working on piecing them together. On a weekly basis, I'm going to aim to complete at least 1-2 passages including their code, which should be achievable over the next month. So, in summary, my next steps are: <br/>
+- figure out how to link multiple image maps to eachother
+- decide if I want to include hints and how that would work
+- write poems and link them together
+- think about scope and scale - how many words, how many passages?
+
+# Week 10 - Reflection questions
+
+#### what were your expectations coming into the class and what have you learnt?
+- my expectations were to move out of my comfort zone and learn to write in a new medium, which I've definitely achieved. It's been a really hard semester, not going to lie - for a medium this different from what I'm used to, I think I'd need more than 13 weeks to fully wrap my head around what I'm doing.
+- I've learnt basic coding techniques and how to use platforms like Github and Twine to a semi-competent level
+- I've learnt what e-lit and digital writing actually is, and how it can be used to elevate your writing and help readers interact with it on a new level.
+- I've learnt how to use ChatGPT and other algorithmic programs to help with my writing and coding
+
+#### how has your creative writing practice developed? are there new directions? Or perhaps it has confirmed something about your practice as it was?
+- It definitely confirmed that I am a tried-and-true fiction writer. This medium is fun, but linear narratives and word documents really are what I'm built for.
+- It's mostly my understanding thats developed, not so much my practice. However, I did find some aspects like the coding playground and the author website useful for if I ever want to showcase my work.
+#### what particular aspects of code-based writing and E-Lit might inform your practice from here on? Perhaps you will take an aspect of E-Lit into an analogue space? Perhaps you will never go near code ever again!
+- With how fast technology is developing, I don't think I'll completely rule out the possibility of me going near code again. However, I'm gonna need a looooong break from it.
+- The interactive aspects of code-based writing and E-lit still remain the most interesting to me in terms of how I can use it in my writing. As a writing exercise sometimes, I like to write 'what if?' chapters for my personal projects to help break through writers block or to try and generate new ideas - coding could be an oppurtunity to include those.
+ 
+
